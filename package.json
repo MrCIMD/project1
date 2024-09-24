@@ -1,0 +1,9 @@
+{
+  "name": "prueba",
+  "version": "0.0.1-beta",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb Mora",
+  "license": "MIT"
+}
