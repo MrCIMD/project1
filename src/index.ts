@@ -2,4 +2,6 @@ console.log("Hello, world!");
 
 const counter: number = 0;
 
-console.log(counter);
+const userName: string = "John Doe";
+
+console.log(`Hello, ${userName}`);
