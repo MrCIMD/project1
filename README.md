@@ -17,3 +17,4 @@ npm run test
 ## Involucrados
 
 Caleb Isaac Mora Diaz
+William Emmanuel Pereyra Ramirez
